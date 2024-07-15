@@ -1,0 +1,17 @@
+.main{
+    font-family: "Gill Sans", sans-serif;
+}
+.header{
+    font-family: "Gill Sans", sans-serif;
+}
+
+.add-item-form{
+    font-family: "Gill Sans", sans-serif;
+
+}
+.strikeout{
+    text-decoration: line-through;
+}
+.priority{
+    color:crimson;
+}
